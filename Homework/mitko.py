@@ -1,4 +1,5 @@
 # Homework 01, Dimitar Dimitrov
+# Test GITHUB
 a=6
 print(a)
 a*=3
