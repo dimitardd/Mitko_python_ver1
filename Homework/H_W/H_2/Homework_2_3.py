@@ -1,4 +1,4 @@
-# Homework 2.2 Dimitar Dimitrov
+# Homework 2.3 Dimitar Dimitrov
 
 y = int(input('Please insert year: '))
 
